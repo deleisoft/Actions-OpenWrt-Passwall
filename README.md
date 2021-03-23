@@ -23,6 +23,8 @@ https://tmate.io/t/Y26QeagDtsPXp2mT6me5cnMRd
 
 完成后按Ctrl+D组合键或执行exit命令退出，后续编译工作将自动进行。
 
+PS：LuCI -> Applications 插件名称对照表-L大：https://www.right.com.cn/forum/thread-344825-1-1.html
+
 ## 固件来源：
 
 P3TERX云编译脚本地址：[https://github.com/P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
