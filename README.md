@@ -21,5 +21,4 @@ lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.c
 lean源码版本，内核为***4.19***版
 
 ## 固件下载
-### 点击[Actions](https://github.com/deleisoft/openwrt-Exclusive/actions) 或者[Releases](https://github.com/deleisoft/openwrt-Exclusive/releases) 选择需要的版本
-![avatar](https://raw.githubusercontent.com/firkerword/openwrt-Exclusive/main/boc/c.png)
+### 点击[Actions](https://github.com/deleisoft/openwrt-Exclusive/actions) 或者[Releases](https://github.com/deleisoft/openwrt-Exclusive/releases) 
